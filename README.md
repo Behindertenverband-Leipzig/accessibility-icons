@@ -1,4 +1,5 @@
 # Accessibility Icons
+<img src="icons/elevator-available.svg" width="30px"/> <img src="icons/elevator-partly-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/elevator-fully-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/partly-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/fully-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/toilet-partly-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/toilet-fully-accessible-for-wheelchairs.svg" width="30px"/> <img src="icons/help-for-hearing-impaired-people-available.svg" width="30px"/> <img src="icons/help-for-visually-impaired-people-available.svg" width="30px"/> <img src="icons/personal-assistance-available.svg" width="30px"/> <img src="icons/disabled-parking-space-available.svg" width="30px"/>
 
 Use this icons to outline certain accessibility features, for instance, that an elevator is partly accessible for wheelchairs.
 
