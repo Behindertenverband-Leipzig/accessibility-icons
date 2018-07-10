@@ -35,6 +35,9 @@ We recommend to use these icons in certain ways to help people understand what t
 
 Icons are provided as SVG files.
 
+## Why this repository?
+
+We are open for contributions and welcome further advices or critics.
 
 ## Acknowledgement
 
