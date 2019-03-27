@@ -33,11 +33,7 @@ We recommend to use these icons in certain ways to help people understand what t
 
 ## Icons in SVG format
 
-Icons are provided as SVG files.
-
-## Why this repository?
-
-We are open for contributions and welcome further advices or critics.
+Icons are provided as SVG files. This format allows everybody to modify and adapt icons for a given use case.
 
 ## Acknowledgement
 
